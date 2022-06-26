@@ -39,8 +39,6 @@ class Script(object):
 
 <b>Extras;</b>
 
-/status  -  Shows current status of your bot (Admin Only)
-
 /id  -  Shows ID information
 
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
